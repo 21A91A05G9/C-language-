@@ -16,16 +16,6 @@ for(j=97;j<103;j++)
 printf("%c ",j);
 
 }
-/*
-output:
-enter no of values
-2
-enter  values
-1 2
-1
-2
-2
-1
-*/
+
 
 
