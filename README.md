@@ -1,2 +1,2 @@
 # C language programs
-## cse - c
+## cse-c
